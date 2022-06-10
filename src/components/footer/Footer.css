@@ -28,7 +28,8 @@ footer a {
     margin-bottom: 4rem;
 }
 .footer__socials a{
-    background: seagreen;
+    background: black;
+    color: whitesmoke;
     font-size: 20px;
     padding: 0.8rem;
     border-radius: 0.7rem;
